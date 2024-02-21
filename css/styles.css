@@ -1,0 +1,21 @@
+:root {
+    --text-font: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    --link-color: rgb(255, 111, 0);
+    --odin-color: #CA9337;
+}
+
+a {
+    color: var(--link-color)
+}
+
+.wrapper {
+    color: var(--odin-color);
+    border-color: var(--odin-color);
+    position: absolute;
+    right: 850px;
+}
+
+
+html {
+    font-family: var(--text-font)
+}
