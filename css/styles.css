@@ -4,6 +4,10 @@
     --odin-color: #CA9337;
 }
 
+body {
+    background-color: black;
+}
+
 a {
     color: var(--link-color)
 }
